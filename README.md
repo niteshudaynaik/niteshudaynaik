@@ -94,48 +94,6 @@ I'm a final-year Electronics & Communication Engineering student with a growing 
 
 ---
 
-<!-- PROJECTS -->
-
-<h2>🚀 Featured Projects</h2>
-
-<table>
-<tr>
-<th>Project</th>
-<th>Description</th>
-<th>Technologies</th>
-</tr>
-<tr>
-<td>User Management System</td>
-<td>Console-based application for managing user records.</td>
-<td>C</td>
-</tr>
-<tr>
-<td>Smart Urban Drainage Monitoring System</td>
-<td>Academic project for drainage monitoring, blockage detection and ML-based flood prediction.</td>
-<td>ESP32, Python, Flask, MySQL</td>
-</tr>
-<tr>
-<td>Full Stack To-Do Application</td>
-<td>Web application for task management.</td>
-<td>Web Technologies, Backend, Database</td>
-</tr>
-</table>
-
----
-
-<!-- GITHUB STATS -->
-
-<h2>📊 GitHub Statistics</h2>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=niteshudaynaik&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshudaynaik&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
----
 
 <h3 align="center">✨ Learn • Build • Improve • Repeat</h3>
 
