@@ -1,67 +1,144 @@
-# Hey, I'm Nitesh Uday Naik 👋
+<!-- INTRODUCTION -->
 
-### Aspiring Java Full Stack Developer | Software Engineering Enthusiast
+<h1 align="center">Hey, I'm Nitesh Uday Naik 👋</h1>
 
-🎓 Final-year Electronics & Communication Engineering student  
-💻 Interested in Java Development, Backend Engineering & Full Stack Development.  
-🌱 Currently learning Java, Web Development and exploring Spring Boot.  
-🚀 Building practical projects and continuously improving my development skills.
+<h3 align="center">Aspiring Java Full Stack Developer | Software Engineer in Progress</h3>
+
+<p align="center">
+  <i>Building practical applications and exploring the world of software engineering.</i>
+</p>
 
 ---
 
-### 👨‍💻 About Me
+<!-- ABOUT ME -->
 
-- 🎓 Pursuing B.E. in Electronics & Communication Engineering.
-- 💼 Currently undertaking a Full Stack Web Development internship at Avgova Solutions.
-- ☕ Focusing on Java and Full Stack Development.
-- 🗄️ Interested in backend systems, databases and REST APIs.
+<h2>👨‍💻 About Me</h2>
+
+<p>
+I'm a final-year Electronics & Communication Engineering student with a growing interest in software development, backend engineering, and full-stack application development.
+</p>
+
+- 🎓 B.E. in Electronics & Communication Engineering.
+- 💼 Full Stack Web Development Intern at Avgova Solutions.
+- ☕ Focused on Java and Object-Oriented Programming.
+- 🌐 Exploring Full Stack Web Development.
+- 🗄️ Interested in Spring Boot, REST APIs and Database Management.
 - 🤖 Exploring AI integration in software applications.
-- 🎯 Goal: Become a skilled Software Developer.
+- 🎯 Aspiring to become a Software Developer.
 
 ---
 
-### 🛠️ Technologies & Tools
+<!-- CONNECT -->
 
-**Programming Languages**
+<h2>🤝 Connect With Me</h2>
 
-Java | C | Python 
+<p align="left">
+<a href="https://www.linkedin.com/in/niteshnaikurt">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://github.com/niteshudaynaik">
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+</a>
+</p>
 
-**Web Development**
-
-HTML | CSS | JavaScript
-
-**Database**
-
-MySQL | SQL
-
-**Tools**
-
-Git | GitHub | VS Code | Linux
+💬 Feel free to connect with me for collaboration, project discussions and opportunities.
 
 ---
 
-### 📌 Current Focus
+<!-- CURRENT WORK -->
 
-- Strengthening Java programming and OOP concepts.
-- Learning backend development.
-- Exploring Spring Boot and REST APIs.
-- Building full-stack web applications.
-- Learning to integrate AI into applications.
+<h2>🔭 Currently Working On</h2>
 
----
-
-### 🚀 Featured Projects
-
-*More projects coming soon!*
+- Full Stack Web Development internship projects.
+- Building a To-Do List Web Application.
+- Strengthening Java programming fundamentals.
+- Developing practical software projects.
+- Exploring backend development and database integration.
 
 ---
 
-### 🤝 Connect With Me
+<!-- CURRENT LEARNING -->
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/niteshnaikurt)
+<h2>🌱 Currently Learning</h2>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/niteshudaynaik)
+- ☕ Core Java and Advanced Java.
+- ⚙️ Object-Oriented Programming.
+- 🌐 HTML, CSS and JavaScript.
+- 🍃 Spring Boot and REST APIs.
+- 🗄️ MySQL and Database Management.
+- 🤖 AI Integration in Web Applications.
 
 ---
 
-⭐ Always learning. Always building. Always improving.
+<!-- TECH STACK -->
+
+<h2>🛠️ Technologies & Tools</h2>
+
+<h3>Programming Languages</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,python,cs" />
+</p>
+
+<h3>Frontend Development</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+<h3>Database & Tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,linux" />
+</p>
+
+---
+
+<!-- PROJECTS -->
+
+<h2>🚀 Featured Projects</h2>
+
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Technologies</th>
+</tr>
+<tr>
+<td>User Management System</td>
+<td>Console-based application for managing user records.</td>
+<td>C</td>
+</tr>
+<tr>
+<td>Smart Urban Drainage Monitoring System</td>
+<td>Academic project for drainage monitoring, blockage detection and ML-based flood prediction.</td>
+<td>ESP32, Python, Flask, MySQL</td>
+</tr>
+<tr>
+<td>Full Stack To-Do Application</td>
+<td>Web application for task management.</td>
+<td>Web Technologies, Backend, Database</td>
+</tr>
+</table>
+
+---
+
+<!-- GITHUB STATS -->
+
+<h2>📊 GitHub Statistics</h2>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=niteshudaynaik&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=niteshudaynaik&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+</p>
+
+---
+
+<h3 align="center">✨ Learn • Build • Improve • Repeat</h3>
+
+<p align="center">
+<i>Always curious. Always building. Always growing.</i>
+</p>
